@@ -1,5 +1,5 @@
 # language: pt
-
+@requires_cart @login
 Funcionalidade: Carrinho de compras
 
   Cenário: Remover produto do carrinho de compras

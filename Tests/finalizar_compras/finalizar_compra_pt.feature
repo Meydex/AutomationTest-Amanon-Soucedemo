@@ -1,5 +1,5 @@
 # language: pt
-
+@requires_cart @requires_checkout_step1 @requires_checkout_step2 @login
 Funcionalidade: Página "Finalizar compra"
 
   Cenário: Finalizar compra

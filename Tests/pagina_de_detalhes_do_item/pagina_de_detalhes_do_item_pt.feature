@@ -1,5 +1,5 @@
 # language: pt
-
+ @login
 Funcionalidade: Página do item
 
  Cenário: Adicionar item ao carrinho a partir da página do item

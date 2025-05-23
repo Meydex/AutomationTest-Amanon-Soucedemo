@@ -1,5 +1,5 @@
 # language: pt
-
+@login
 Funcionalidade: Página de produtos (Inventário)
 
   Cenário: Adicionar item ao carrinho de compras
@@ -27,7 +27,6 @@ Funcionalidade: Página de produtos (Inventário)
   
     Dado que estou na página de produtos
     Quando clico no menu de filtros
-    E seleciono um filtro
     Então os itens devem ser reorganizados de acordo com o filtro selecionado
 
   Cenário: Verificar carrinho de compras
